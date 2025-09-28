@@ -33,15 +33,15 @@ The game includes basic mechanics like flying, pipes, collision detection, and s
 
 2. Install dependencies:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Run the game:
 
-  ```bash
-  python main.py
-  ```
+   ```bash
+   python main.py
+   ```
 
 ---
 
