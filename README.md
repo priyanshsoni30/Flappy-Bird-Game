@@ -1,6 +1,6 @@
-# 🐦 Flappy Bird Clone (Python + Pygame)
+# 🐦 Flappy Bird Game (Python + Pygame)
 
-A simple **Flappy Bird clone** built using **Python** and **Pygame**.  
+A simple **Flappy Bird game** built using **Python** and **Pygame**.  
 The game includes basic mechanics like flying, pipes, collision detection, and scoring.  
 
 ---
@@ -27,8 +27,8 @@ The game includes basic mechanics like flying, pipes, collision detection, and s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flappy-bird-clone.git
-   cd flappy-bird-clone
+   git clone https://github.com/priyanshsoni30/Flappy-Bird-Game.git
+   cd Flappy-Bird-Game
    ```
 
 2. Install dependencies:
